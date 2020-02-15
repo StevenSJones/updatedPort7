@@ -1,3 +1,7 @@
+.dub-border{
+    border-style: double;
+}
+
 .carousel .item{
     height: 100%;
 }
